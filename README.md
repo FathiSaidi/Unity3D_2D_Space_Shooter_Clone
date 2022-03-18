@@ -25,5 +25,3 @@ Unity 3D 2017.1
 
 ![](preview1.PNG)
 ![](preview2.PNG)
-
-## I hope it helps you in someway ;)
